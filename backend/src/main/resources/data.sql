@@ -1,0 +1,16 @@
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Sabrina Coração', '1234563940', 2345.4, TIMESTAMP WITH TIME ZONE '2000-10-14T10:00:00Z', 0);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Pedro Alves', '1234545940', 2885.5, TIMESTAMP WITH TIME ZONE '1980-01-14T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Maria Almeida', '12309263940', 4345.0, TIMESTAMP WITH TIME ZONE '2001-02-14T10:00:00Z', 1);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Ana Mangueira', '12343673940', 7345.6, TIMESTAMP WITH TIME ZONE '2000-07-19T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Filipa Cardoso', '1234563732', 9345.9, TIMESTAMP WITH TIME ZONE '2002-03-14T10:00:00Z', 3);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Pedro Afonso', '1234563982', 1345.9, TIMESTAMP WITH TIME ZONE '2000-04-14T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Domingas Alfredo', '9384563940', 6345.9, TIMESTAMP WITH TIME ZONE '1990-02-24T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Dominique Miranda', '1242963940', 1345.9, TIMESTAMP WITH TIME ZONE '1980-04-10T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('José Ferreira', '1230083940', 4345.9, TIMESTAMP WITH TIME ZONE '1978-02-12T10:00:00Z', 1);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Kiari Cardoso', '1234564440', 6665.9, TIMESTAMP WITH TIME ZONE '2000-08-14T10:00:00Z', 0);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('João Paulo', '1234563221', 235.9, TIMESTAMP WITH TIME ZONE '1994-03-27T10:00:00Z', 0);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Mateus Ulombe', '1234490940', 3445.9, TIMESTAMP WITH TIME ZONE '1992-04-07T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Milton Rico', '1234563999', 12345.9, TIMESTAMP WITH TIME ZONE '2001-12-10T10:00:00Z', 1);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Caríssimo Vicente', '1264563940', 3345.9, TIMESTAMP WITH TIME ZONE '2000-05-09T10:00:00Z', 3);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Rita Portas', '1234888940', 6345.6, TIMESTAMP WITH TIME ZONE '1999-06-14T10:00:00Z', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) values ('Elsa Boa Sorte', '1665563940', 2995.9, TIMESTAMP WITH TIME ZONE '2000-01-20T10:00:00Z', 0);
